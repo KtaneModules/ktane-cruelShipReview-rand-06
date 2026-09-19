@@ -1,0 +1,10 @@
+{
+  "name": "cruelShipReview-Editor",
+  "references": [
+    "cruelShipReview"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
